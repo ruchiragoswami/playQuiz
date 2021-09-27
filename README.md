@@ -10,4 +10,4 @@ This is a general knowledge quiz game with three rounds. While the target audien
 6. See the final score at the end
 
 # Click below play
-https://replit.com/@Ruchirang/assignemtforlevel01#index.js?embed=1&output=1
+https://replit.com/@Ruchirang/assignemtforlevel01?embed=1&output=1#index.js
